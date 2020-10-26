@@ -1,4 +1,4 @@
-class Graph:
+class Graph: //graph 1
     def __init__(self,nodes):
         self.graph=[]
         for i in range(0,nodes):
